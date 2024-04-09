@@ -1,4 +1,3 @@
-![image](https://github.com/DengYaosheng/TDR-Complex-Wired-Networks-failure-analysis/assets/41530023/4eaca8e2-3ccd-4f6e-b901-5cc628a1ec25)
 # Fault diagnosis method of cable network based on time domain reflectometry （TDR）
 
 # Principle of TDR
@@ -29,6 +28,7 @@
 ![image](https://github.com/DengYaosheng/TDR-Complex-Wired-Networks-failure-analysis/assets/41530023/644691e8-f34d-4ae7-8dc6-551ecaa58007)
 According to the analysis in the figure above, the round-trip time of the fault signal on the cable can be obtained, and the distance between the fault terminal and the cable beginning can be obtained by substituting the formula, as follows
 ![image](https://github.com/DengYaosheng/TDR-Complex-Wired-Networks-failure-analysis/assets/41530023/02c055c7-ac2e-4546-b5a2-f2314f691a02)
+![image](https://github.com/DengYaosheng/TDR-Complex-Wired-Networks-failure-analysis/assets/41530023/4eaca8e2-3ccd-4f6e-b901-5cc628a1ec25)
 
 | 实际故障距离（m） / Actual Fault Distance (m) | 反射延迟时间( ) / Reflect Delay (ms) | 测试故障距离(m) / Test Fault Distance (m) | 相对误差（%） / Relative Error (%) |
 |---------------------------------------------|---------------------------------------|-------------------------------------------|--------------------------------------|
