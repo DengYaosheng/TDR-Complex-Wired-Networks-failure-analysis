@@ -27,7 +27,7 @@
 ![image](https://github.com/DengYaosheng/TDR-Complex-Wired-Networks-failure-analysis/assets/41530023/39348b1a-adc2-46a2-ad6d-00f66d7acefc)
 ![image](https://github.com/DengYaosheng/TDR-Complex-Wired-Networks-failure-analysis/assets/41530023/644691e8-f34d-4ae7-8dc6-551ecaa58007)
 According to the analysis in the figure above, the round-trip time of the fault signal on the cable can be obtained, and the distance between the fault terminal and the cable beginning can be obtained by substituting the formula, as follows
-![image](https://github.com/DengYaosheng/TDR-Complex-Wired-Networks-failure-analysis/assets/41530023/02c055c7-ac2e-4546-b5a2-f2314f691a02)
+
 ![image](https://github.com/DengYaosheng/TDR-Complex-Wired-Networks-failure-analysis/assets/41530023/4eaca8e2-3ccd-4f6e-b901-5cc628a1ec25)
 
 | 实际故障距离（m） / Actual Fault Distance (m) | 反射延迟时间( ) / Reflect Delay (ms) | 测试故障距离(m) / Test Fault Distance (m) | 相对误差（%） / Relative Error (%) |
@@ -73,7 +73,9 @@ According to the analysis in the figure above, the round-trip time of the fault 
 
 ## Y-type cable network branch open circuit fault diagnosis simulation experiment data recording
 When a high-frequency signal is injected into a cable, the cable will transmit the signal to the equivalent model of the RLCG transmission line, and this is the object of analysis. The topology structure of the minimum network unit Y-type cable network studied in this chapter is shown in Figure 4.1, and its transmission line model can be applied to the topology structure shown in the Figure below.
+
 ![image](https://github.com/DengYaosheng/TDR-Complex-Wired-Networks-failure-analysis/assets/41530023/122ef9a9-6891-4313-bd53-a20f6c182cb0)
+
 According to the formula, the pulse signal obtained from the detection port of the signal can be used as the incident pulse signal through different paths and transmitted to the detection port under the action of cable attenuation and time delay.
 
 ![image](https://github.com/DengYaosheng/TDR-Complex-Wired-Networks-failure-analysis/assets/41530023/022c0bde-9ca0-495c-a3ce-1d8154f4f94a)
